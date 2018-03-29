@@ -1,7 +1,7 @@
 # newideas
 New ideas
 
-##Strategy
+## Strategy
 https://blog.intercom.com/run-less-software/
 https://news.ycombinator.com/item?id=16675833
 https://eng.uber.com/mysql-migration/
