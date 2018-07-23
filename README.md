@@ -61,6 +61,17 @@ url http://www.ludvikalexikon.se/o/olsjo-kyrkstig/
 website http://www.grangardehembygdsforening.se/main/olsjo_kyrkstig.htm
 wikipedia sv:Olsj%C3%B6n#Olsj.C3.B6_kyrkstig
 
+## Catography
+### Simplify
+Visvalingam, M.; Williamson, P.J. Simplification and generalization of large scale data for roads: A comparison of two filtering algorithms. 
+
+ISPRS International Journal of Geo-Information
+ISSN 2220-9964
+www.mdpi.com/journal/ijgi/
+A New Algorithm for Cartographic Simplification of Streams and Lakes Using Deviation Angles and Error Bands
+Türkay Gökgöz *, Alper Sen, Abdulkadir Memduhoglu and Muslum Hacar
+https://pdfs.semanticscholar.org/e80b/1c64345583eb8f7a6c53834d1d40852595d5.pdf
+
 ## Examples FOSS
 https://k7r.eu/us-government-commits-to-publish-publicly-financed-software-under-free-software-licenses/
 http://mapgive.state.gov/index.html
